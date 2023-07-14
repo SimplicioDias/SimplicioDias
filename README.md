@@ -7,13 +7,13 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124295716/)
 ##
 
-### Tecnologias que mais domino
+### Tecnologias que mais domino 😏
 <div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 </div><br/>
 
 ##
-### Tecnologias que estou estudando ou pretendo estudar em um futuro próximo
+### Tecnologias que estou estudando ou pretendo estudar em um futuro próximo 😁
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
