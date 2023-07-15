@@ -23,5 +23,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplicioDias&langs_count=8)
+
 ##
 #### Se me perguntassem o que representa um programador eu parafrasearia Aristóteles em: "Só fazemos melhor aquilo que repetidamente insistimos em melhorar. A busca da excelência não deve ser um objetivo, e sim um hábito."
