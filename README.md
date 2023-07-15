@@ -1,5 +1,5 @@
-## Olá, eu sou o Simplício Gonçalo! Seja bem-vindo ao meu perfil do GitHub. 👋
-#### Sou um promgramador em formação, e considero o desenvolvimento tecnológioco uma das áreas mais importantes e promissoras para a humanidade em seu atual estado evolutivo.
+## Hi, I'm Simplício Gonçalo! Welcome to my GitHub profile. 👋
+#### Sou um programador em formação, e considero o desenvolvimento tecnológioco uma das áreas mais importantes e promissoras para a humanidade em seu atual estado evolutivo.
 ##
 ### Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simpl%C3%ADcio-gon%C3%A7alo-gon%C3%A7alves-machado-dias-6878a0283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAEYyZYKfQmuVfQeB4HgHvg%3D%3D)
