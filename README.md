@@ -23,6 +23,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplicioDias&langs_count=8)
 
 ##
