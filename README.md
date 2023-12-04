@@ -4,7 +4,6 @@
 ### Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simpl%C3%ADcio-gon%C3%A7alo-gon%C3%A7alves-machado-dias-6878a0283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAEYyZYKfQmuVfQeB4HgHvg%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simpliciogmd/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124295716/)
 ##
 
 ### Tecnologias que mais domino 😏
