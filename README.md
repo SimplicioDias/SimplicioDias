@@ -1,4 +1,4 @@
-## Hi, I'm Simplício Gonçalo! Welcome to my GitHub profile. 👋
+## Hi, I'm Simplicio Gonçalo! Welcome to my GitHub profile. 👋
 #### Sou um programador em formação, e considero o desenvolvimento tecnológioco uma das áreas mais importantes e promissoras para a humanidade em seu atual estado evolutivo.
 ##
 ### Social Media
