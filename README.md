@@ -3,9 +3,8 @@
 ##
 ### Contacting me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simpl%C3%ADcio-gon%C3%A7alo-gon%C3%A7alves-machado-dias-6878a0283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAEYyZYKfQmuVfQeB4HgHvg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:simplicio.g3@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simpliciogmd/)
-<a href="mailto:simplicio.g3@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ##
 
 ### Greater programming skills.
