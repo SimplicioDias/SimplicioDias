@@ -26,4 +26,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplicioDias&layout=compact)
 
 ##
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplicioDias&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SimplicioDias/dio-lab-open-source)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SimplicioDias&repo=MyDOOM-Wolfenstein&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SimplicioDias/MyDOOM-Wolfenstein)
+##
 #### Se me perguntassem o que representa um programador eu parafrasearia Aristóteles em: "Só fazemos melhor aquilo que repetidamente insistimos em melhorar. A busca da excelência não deve ser um objetivo, e sim um hábito."
